@@ -1,0 +1,19 @@
+import java.util.Scanner;
+puublic class twoDarray{
+    public sataic void main(String[] args){
+        Scanner sc=new Scanner(System.in):
+        int row,column;
+        System.out.println("Enter the number of rows:");
+        row=sc.nextInt();
+        system.out.println("Enter the numbers of columns:");
+        column=sc.nextInt();
+        int[][]a=new int[row][column];
+        int i,j 
+        for (i=o; i<row;i++){
+            for (j=o; j<column;j++){
+                System.out.printf
+            }
+        }
+
+    }
+}
